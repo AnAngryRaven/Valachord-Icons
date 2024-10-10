@@ -1,0 +1,185 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_goal_father_of_nations_trun"
+		texturefile = "gfx/interface/goals/zloy_stalinuga2.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_positive_heroism_captainluck"
+		texturefile = "gfx/interface/goals/The_Red_Army.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_superior_war_machine_captainluck"
+		texturefile = "gfx/interface/goals/Superior_War_Machines.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_means_to_wage_war_captainluck"
+		texturefile = "gfx/interface/goals/The_Means_to_Wage_War.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_develop_tankograd_captainluck"
+		texturefile = "gfx/interface/goals/Development_of_Tankograd.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_align_zinyevites_trun"
+		texturefile = "gfx/interface/goals/zina.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_fascist_youth_union_captainluck"
+		texturefile = "gfx/interface/goals/The_Fascist_Youth_Union.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_muster_old_guard_captainluck"
+		texturefile = "gfx/interface/goals/muster_old_guard.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_train1_captainluck"
+		texturefile = "gfx/interface/goals/Generic_Train.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_train2_captainluck"
+		texturefile = "gfx/interface/goals/Generic_Soviet_Train.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_control_scandanavia_saulgoofball"
+		texturefile = "gfx/interface/goals/23.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_raskovas_aviation_group_captainluck"
+		texturefile = "gfx/interface/goals/raskovas_aviation_group.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_beaten_not_defeated_captainluck"
+		texturefile = "gfx/interface/goals/Beaten_Not_Defeated.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_embrace_black_hundreds_captainluck"
+		texturefile = "gfx/interface/goals/Embrace_Black_Hundreds.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_annex_tannu_tuva_saulgoofball"
+		texturefile = "gfx/interface/goals/annex_tuva.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_reopen_novodevichi_captainluck"
+		texturefile = "gfx/interface/goals/Reopen_Novodevichi.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_baltic_security_trun"
+		texturefile = "gfx/interface/goals/the_baltics3.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_construction_of_communism_boris"
+		texturefile = "gfx/interface/goals/soviet_industry.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_nkvd_symbol_captainluck"
+		texturefile = "gfx/interface/goals/NKVD_Primacy.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_berlin_moscow_axis_captainluck_astor"
+		texturefile = "gfx/interface/goals/berlin_moscow_axis.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_bojan_emperor"
+		texturefile = "gfx/interface/goals/Bojaren_icon.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_return_democracy_captainluck_astor"
+		texturefile = "gfx/interface/goals/Return_Democracy_to_Party.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_five_year_plan_captainluck"
+		texturefile = "gfx/interface/goals/five_year_plan.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_secret_third_option_captainluck"
+		texturefile = "gfx/interface/goals/Right_Opposition.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_trotsky_bust_captainluck"
+		texturefile = "gfx/interface/goals/Left_Opposition.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_stalin_bust_captainluck"
+		texturefile = "gfx/interface/goals/Centre.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_reclaim_alaska_brammeke"
+		texturefile = "gfx/interface/goals/CCP_alaska.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_new_theory_captainluck"
+		texturefile = "gfx/interface/goals/New_Theory_Revolution.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_scale_captainluck"
+		texturefile = "gfx/interface/goals/Generic_Scale.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_soviet_octopus_captainluck"
+		texturefile = "gfx/interface/goals/soviet_squid.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_vanguard_of_true_revolution_vopo"
+		texturefile = "gfx/interface/goals/vanguard_of_true_revolution.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_primakov_bust_captainluck"
+		texturefile = "gfx/interface/goals/approach_primakov.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_tukhavchevsky_bust_captainluck"
+		texturefile = "gfx/interface/goals/approach_tukhachevsky.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_leader_of_people_and_party_captainluck"
+		texturefile = "gfx/interface/goals/leader_of_people_party.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_guy_holding_shell"
+		texturefile = "gfx/interface/goals/war_economy.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_hands_do_sprinkleskid"
+		texturefile = "gfx/interface/goals/the_hands_do.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_the_comintern_captainluck"
+		texturefile = "gfx/interface/goals/the_comintern.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_kill_centre_captainluck"
+		texturefile = "gfx/interface/goals/kill_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_kill_right_captainluck"
+		texturefile = "gfx/interface/goals/kill_right.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_kill_left_captainluck"
+		texturefile = "gfx/interface/goals/kill_left.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_komsomol_sheep"
+		texturefile = "gfx/interface/goals/the_komsomol.png"
+	}
+	SpriteType = {
+		name = "GFX_goal_kill_zino_trun"
+		texturefile = "gfx/interface/goals/trun_maxxing.png"
+	}
+
+	### IDEAS ###
+
+	spriteType = {
+		name = "GFX_idea_nkvd_captainluck"
+		texturefile = "gfx/interface/ideas/NKVD.png"
+	}
+	spriteType = {
+		name = "GFX_idea_boyaren_emperor"
+		texturefile = "gfx/interface/ideas/boyaren_nat_spirit.png"
+	}
+	spriteType = {
+		name = "GFX_idea_komsomol_sheep"
+		texturefile = "gfx/interface/ideas/Soviet_family_with_flag.png"
+	}
+}
